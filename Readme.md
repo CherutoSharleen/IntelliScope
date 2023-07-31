@@ -3,7 +3,7 @@
 [//]: # (![IntelliScope Logo]&#40;https://intelli-scope.vercel.app/logo.png&#41;)
 
 ## Description
-IntelliScope is a state-of-the-art smart stethoscope that brings intelligence to the world of healthcare. This revolutionary device combines advanced technology and AI-powered analysis to empower healthcare professionals with accurate and timely diagnostic capabilities.
+ Intelliscope is a cutting-edge, AI-powered digital stethoscope designed to revolutionize the way healthcare professionals conduct auscultation and patient examinations. The device combines advanced sensor technology, artificial intelligence, and cloud computing to provide accurate and insightful diagnostic information.
 
 ## Features
 - **🔊 Real-time Audio Streaming:** Listen to heart and lung sounds in real-time with seamless audio streaming, providing immediate feedback on patient health.
