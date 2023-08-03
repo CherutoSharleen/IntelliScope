@@ -749,22 +749,21 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/intelliscope/Cardiologist-bro.png") center center no-repeat;
   background-size: contain;
-  min-height: 300px;
 }
 
-.about .play-btn {
-  width: 94px;
-  height: 94px;
-  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);
-  border-radius: 50%;
-  display: block;
-  position: absolute;
-  left: calc(50% - 47px);
-  top: calc(50% - 47px);
-  overflow: hidden;
-}
+/*.about .play-btn {*/
+/*  width: 94px;*/
+/*  height: 94px;*/
+/*  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);*/
+/*  border-radius: 50%;*/
+/*  display: block;*/
+/*  position: absolute;*/
+/*  left: calc(50% - 47px);*/
+/*  top: calc(50% - 47px);*/
+/*  overflow: hidden;*/
+/*}*/
 
 .about .play-btn::after {
   content: "";
